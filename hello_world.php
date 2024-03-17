@@ -4,4 +4,5 @@ mod
 deamon
 add
 stash -- pp
+stash1
 ?>
