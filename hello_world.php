@@ -3,4 +3,5 @@ echo "Hello World!";
 mod 
 deamon
 add
+stash
 ?>
